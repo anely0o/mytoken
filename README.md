@@ -20,3 +20,7 @@ MyToken is a simple Ethereum token project created for educational and experimen
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.  
+
+## here is my screenshot for an additional task
+<img width="602" alt="image" src="https://github.com/anely0o/mytoken/assets/129706883/4e361c3d-dfc2-4fab-804f-5d41006a8d0e">
+
