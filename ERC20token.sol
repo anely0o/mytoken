@@ -6,7 +6,7 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v4.4.2/contr
 contract CustomToken is ERC20 {
     address public owner;
 
-    constructor() ERC20("<AITU_Sayat>", "UNF") {
+    constructor() ERC20("<AITU_Anelka>", "UNF") {
         owner = msg.sender;
         _mint(msg.sender, 2000 * (10**decimals()));
     }
